@@ -1,0 +1,98 @@
+ 5800éTÜRKÝYE ÝÞ BANKASI / Tokat         ( 01/10/2025 - 31/12/2025 TARÝHLERÝ ARASI 5800 - 0382789 NUMARALI HESABIN YATIRIM ÖZETÝ)
+                                                                                                                 31/10/2026  18:51:24
+ BÜYÜK MÜKELLEFLER V.D.BÞK. SÝCÝL NO : 4810058590                                                                          SAYFA :  1
+                                                       YATIRIM HESABI PORTFOYÜ
+ ------------------------------------------------------------------------------------------------------------------------------------
+ Müþteri Adý: HACI MURAT BALCI                                                                                 Hesap No: 5800 0382789
+ Adresi: ÝSMAÝL ALTINGÖVDE CAD.NO.21-H TOKAT                                                            TC KIMLIK NO   : 36346602448
+         (Varsa adres deðiþikliklerinin þubemize bildirilmesi rica olunur).
+ ------------------------------------------------------------------------------------------------------------------------------------
+ TL  MEVCUDU
+ ----------------------------------------------------------------------------------------------------------------------------------
+ Toplam TL  Mevcudu   :                  0.00  Bloke Tutarý:                  0.00 Kullanýlabilir TL  Tutari:                  0.00
+ Toplam Portföy Deðeri:                  0.00  USD(ÝÞ.DA):                    0.00  EURO (ÝÞ.DA)            :                  0.00
+ ----------------------------------------------------------------------------------------------------------------------------------
+ PORTFÖY DEÐERÝNE VARSA ÝÞ YATIRIM HESABINIZDAKÝ PAY/VARANTLAR ÝLE BU KIYMETLERE ÝLÝÞKÝN BRÜT TAKAS BORCUNUZ DAHÝLDÝR.
+ MALÝYET BÝLGÝ AMAÇLIDIR. VERGÝNÝZ FÝFO TABLOSUNDAKÝ MALÝYETLERÝNÝZ ÝLE HESAPLANMAKTADIR. TEÞEKKÜR EDERÝZ.
+ 5800éTÜRKÝYE ÝÞ BANKASI / Tokat
+                                                                                                                 31/10/2026  18:51:24
+ BÜYÜK MÜKELLEFLER V.D.BÞK. SÝCÝL NO : 4810058590                                                                          SAYFA :  2
+                                                       YATIRIM HESABI EXTRESÝ
+                                              ( 01/10/2025 - 31/12/2025 TARÝHLERÝ ARASI )
+ ------------------------------------------------------------------------------------------------------------------------------------
+ Müþteri Adý: HACI MURAT BALCI                                                                                 Hesap No: 5800 0382789
+ Adresi: ÝSMAÝL ALTINGÖVDE CAD.NO.21-H TOKAT                                                            TC KIMLIK NO   : 36346602448
+         (Varsa adres deðiþikliklerinin þubemize bildirilmesi rica olunur).
+ ------------------------------------------------------------------------------------------------------------------------------------
+
+ ÝÞLEM    ÞUBE FÝÞ NO  ÝÞL KYMT   FAÝZ ORANI  KIYMET            TL  TUTAR          TL  BAKÝYE /       AÇIKLAMA
+ TARÝHÝ                KOD ADI    BÝRÝM FÝAT  ADEDÝ                                KIYMET BAKÝYE
+ ======== ==== ======== == ====== =========== ================= ================== ================= ======================
+ 03/10/25 0165 22222929 QC                  -                 -            +157.50           +157.50 CARÝ/YATIRIM VÝRMANI
+                                                                                              +0.000
+ 03/10/25 0165 22229971 QM                  -                 -            -150.00             +7.50 YAT.HS.SAKLAMA ÜCRETÝ
+                                                                                              +0.000
+ 03/10/25 0165 22229977 ST                  -                 -              -7.50             +0.00 BSMV TUTARI
+                                                                                              +0.000
+ 14/10/25 5800 95092626 73 801    1208.756531           -17.000         +20,548.86        +20,548.86 YATIRIM FONU SATIÞI
+                                                                                             +95.000
+ 14/10/25 5800 23239191 VG 801              -                 -            -562.87        +19,985.99 STOPAJ (GVK.GEÇ67)
+                                                                                              +0.000
+ 14/10/25 5800 95092626 QP                  -                 -         +19,985.99             +0.00 YATIRIM/CARÝ VÝRMANI
+                                                                                              +0.000
+ 03/11/25 5800 95140312 73 801    1234.710406           -29.000         +35,806.60        +35,806.60 YATIRIM FONU SATIÞI
+                                                                                             +66.000
+ 03/11/25 5800 23239191 VG 801              -                 -          -1,053.83        +34,752.77 STOPAJ (GVK.GEÇ67)
+                                                                                              +0.000
+ 03/11/25 5800 95140312 QP                  -                 -         +34,752.77             +0.00 YATIRIM/CARÝ VÝRMANI
+                                                                                              +0.000
+ 14/11/25 5800 95150947 73 801    1249.217604           -25.000         +31,230.44        +31,230.44 YATIRIM FONU SATIÞI
+                                                                                             +41.000
+ 14/11/25 5800 23239191 VG 801              -                 -            -998.06        +30,232.38 STOPAJ (GVK.GEÇ67)
+                                                                                              +0.000
+ 14/11/25 5800 95150947 QP                  -                 -         +30,232.38             +0.00 YATIRIM/CARÝ VÝRMANI
+                                                                                              +0.000
+ 28/11/25 5800 95151728 73 801    1267.314351           -41.000         +51,959.89        +51,959.89 YATIRIM FONU SATIÞI
+                                                                                              +0.000
+ 28/11/25 5800 23239191 VG 801              -                 -          -1,526.25        +50,433.64 STOPAJ (GVK.GEÇ67)
+                                                                                              +0.000
+ 28/11/25 5800 95151728 QP                  -                 -         +50,433.64             +0.00 YATIRIM/CARÝ VÝRMANI
+                                                                                              +0.000
+ 22/12/25 0165 99999999 RZ RGYAS            -                 -             +13.93            +13.93 TEMETTÜ ÖDEMESÝ
+                                                                                              +0.000 %    139.347810
+ 29/12/25 0165 95100712 QY KOTON      +15.420           -38.000            +584.73            +13.93 291500066938
+                                                                                             +38.000 NOLU SATIÞ TALÝMATI
+ 29/12/25 0165 95100804 QY LILAK      +29.040           -26.000            +753.45            +13.93 291500067822
+                                                                                             +26.000 NOLU SATIÞ TALÝMATI
+ 29/12/25 0165 95100830 QY RGYAS     +137.500           -10.000          +1,372.11            +13.93 291500068259
+                                                                                             +10.000 NOLU SATIÞ TALÝMATI
+ 29/12/25 0165 66103855 IX 812000    0.000000       -35,000.000                  -            +13.93 YATIRIM FONU
+                                                                                              +0.000 SATIÞ TALÝMATI
+ 29/12/25 5800 99102710 QP                  -                 -             -13.93             +0.00 YATIRIM/CARÝ VÝRMANI
+                                                                                              +0.000
+ 31/12/25 0165 00000000 QZ KOTON      -15.500           -38.000            +587.76           +587.76 TAKAS KOM: 1.18
+                                                                                              +0.000 SATIÞ BSMV: 0.06
+ 31/12/25 0165 00000000 QZ LILAK      -29.040           -26.000            +753.45         +1,341.21 TAKAS KOM: 1.51
+                                                                                              +0.000 SATIÞ BSMV: 0.08
+ 31/12/25 0165 00000000 QZ RGYAS     -137.500           -10.000          +1,372.11         +2,713.32 TAKAS KOM: 2.75
+                                                                                              +0.000 SATIÞ BSMV: 0.14
+ 5800éTÜRKÝYE ÝÞ BANKASI / Tokat
+                                                                                                                 31/10/2026  18:51:24
+ BÜYÜK MÜKELLEFLER V.D.BÞK. SÝCÝL NO : 4810058590                                                                          SAYFA :  3
+                                                       YATIRIM HESABI EXTRESÝ
+                                              ( 01/10/2025 - 31/12/2025 TARÝHLERÝ ARASI )
+ ------------------------------------------------------------------------------------------------------------------------------------
+ Müþteri Adý: HACI MURAT BALCI                                                                                 Hesap No: 5800 0382789
+ Adresi: ÝSMAÝL ALTINGÖVDE CAD.NO.21-H TOKAT                                                            TC KIMLIK NO   : 36346602448
+         (Varsa adres deðiþikliklerinin þubemize bildirilmesi rica olunur).
+ ------------------------------------------------------------------------------------------------------------------------------------
+
+ ÝÞLEM    ÞUBE FÝÞ NO  ÝÞL KYMT   FAÝZ ORANI  KIYMET            TL  TUTAR          TL  BAKÝYE /       AÇIKLAMA
+ TARÝHÝ                KOD ADI    BÝRÝM FÝAT  ADEDÝ                                KIYMET BAKÝYE
+ ======== ==== ======== == ====== =========== ================= ================== ================= ======================
+ 31/12/25 0165 99122073 MN 812000    0.995457       -35,000.000         +34,841.00        +37,554.32 YATIRIM FONU
+                                                                                              +0.000 TALÝMAT SONUCU - SATI
+ 31/12/25 5800 99122073 QP                  -                 -         +34,841.00         +2,713.32 YATIRIM/CARÝ VÝRMANI
+                                                                                              +0.000
+ 31/12/25 5800 99141394 QP                  -                 -          -2,713.32             +0.00 YATIRIM/CARÝ VÝRMANI
+                                                                                              +0.000
